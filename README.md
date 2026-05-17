@@ -2,11 +2,11 @@
 Portfolio of AI, Machine Learning, and Bioinformatics projects.
 # Moeen — Bioinformatics & AI Researcher
 
-🧬 **Bioinformatician | AI & Machine Learning Specialist in Life Sciences | Computational Biology Researcher**
+ **Bioinformatician | AI & Machine Learning Specialist in Life Sciences | Computational Biology Researcher**
 
 ---
 
-## 🔬 Research Identity
+##  Research Identity
 
 I am a research-driven computational biologist committed to designing intelligent, data-centric solutions for modern biological and medical challenges.  
 My work integrates **genomics**, **machine learning**, and **advanced bioinformatics** to transform complex biological data into actionable scientific discovery.
@@ -15,7 +15,7 @@ My long-term objective is to contribute to **precision medicine**, **genetic eng
 
 ---
 
-## 🧠 Core Research Domains
+##  Core Research Domains
 
 - Computational Genomics & Genome Annotation  
 - Machine Learning & Deep Learning for Biological Data  
@@ -26,7 +26,7 @@ My long-term objective is to contribute to **precision medicine**, **genetic eng
 
 ---
 
-## 🛠️ Technical & Research Expertise
+##  Technical & Research Expertise
 
 ### Programming & Data Science  
 - **Python**, **C++**  
@@ -47,7 +47,7 @@ My long-term objective is to contribute to **precision medicine**, **genetic eng
 
 ---
 
-## 🚀 Current Research & Development Agenda
+##  Current Research & Development Agenda
 
 - AI-based genome analysis pipelines  
 - Machine learning models for mutation impact prediction  
@@ -57,17 +57,17 @@ My long-term objective is to contribute to **precision medicine**, **genetic eng
 
 ---
 
-## 🧪 Selected Projects *(Ongoing)*
+##  Selected Projects *(Ongoing)*
 
-- 🧬 **AI-Driven Genome Analysis Platform**  
-- 🧪 **CRISPR Guide Design & Optimization Engine**  
-- 🤖 **Disease Mutation Prediction Models**  
-- 💻 **Advanced Data Structures & Algorithms in C++**  
-- 🧠 **Biological Data Modeling & Visualization Toolkit**
+-  **AI-Driven Genome Analysis Platform**  
+-  **CRISPR Guide Design & Optimization Engine**  
+-  **Disease Mutation Prediction Models**  
+-  **Advanced Data Structures & Algorithms in C++**  
+-  **Biological Data Modeling & Visualization Toolkit**
 
 ---
 
-## 🧭 Professional Objectives
+##  Professional Objectives
 
 - Contribute to international research in bioinformatics & AI  
 - Publish impactful scientific research in genomics & computational biology  
@@ -76,7 +76,7 @@ My long-term objective is to contribute to **precision medicine**, **genetic eng
 
 ---
 
-## 📚 Continuous Development
+##  Continuous Development
 
 - Advanced deep learning architectures for genomics  
 - High-performance computing & cloud bioinformatics  
@@ -85,20 +85,20 @@ My long-term objective is to contribute to **precision medicine**, **genetic eng
 
 ---
 
-## 🌍 Scientific Vision
+##  Scientific Vision
 
 > *Advancing biology through computation, intelligence, and innovation.*
 
 ---
 
-## 🤝 Collaboration & Research Engagement
+##  Collaboration & Research Engagement
 
 I welcome collaboration with researchers, developers, and institutions in bioinformatics, AI, genomics, and life sciences.  
 Open to academic partnerships, joint research, and impactful innovation initiatives.
 
 ---
 
-## 📫 Connect & Build With Me
+##  Connect & Build With Me
 
 If you're interested in **AI × Biology × Research**, let's create the next generation of life-science technology — together.
 

@@ -13,7 +13,9 @@ My work focuses on developing production-ready applications using Python, FastAP
 
 I enjoy solving real-world biological problems with software while contributing to open-source projects.
 
-#Current Focus:
+---
+
+## Current Focus:
 
 Bioinformatics
 
@@ -35,9 +37,9 @@ REST APIs
 
 ---
 
-##Tech Stacks:
+## Tech Stacks:
 
-#Languages:
+# Languages:
 
 Python
 

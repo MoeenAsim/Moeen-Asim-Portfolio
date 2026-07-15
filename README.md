@@ -1,5 +1,6 @@
 # Moeen-Asim-Portfolio
 I am a Bioinformatics and Phylogenetics Student at QAU with a strong interest in AI ,ML algorithms, Model Training, SQL, Postgresql, API integration (Fast API), Deployment (Docker,AWS), LLMs, Web Development and Softwares Development. I love to find solutions by combining Software Development, AI and Biology.
+
 **Moeen — AI & ML Engineer & Bioinformatics & Data Analyst (SQL, Postgresql) & Deployment 
 
  **AI & MLE | LLMs | SQL | AWS | C++ & Python | Phylogenetic expert | Bioinformatics @QAU | WebDeveloper | Freelancer”**
@@ -36,6 +37,7 @@ REST APIs
 
 #Tech Stacks:
 ##Languages:
+
 Python
 
 C++

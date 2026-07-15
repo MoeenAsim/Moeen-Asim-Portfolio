@@ -74,8 +74,6 @@ LangChain
 
 OpenAI API
 
-Anthropic API
-
 Google Gemini
 
 Hugging Face

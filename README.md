@@ -175,13 +175,29 @@ Web application for differential gene expression analysis.
 
 # Open Source
 
-✔ Grafana Labs Contributor
+✔ Grafana Labs 
 
-✔ Hoppscotch Contributor
+✔ Hoppscotch 
 
 ✔ Active GitHub Contributor
 
 ✔ Microsoft
+
+✔ Google
+
+✔ Mattermost
+
+✔ SKtime
+
+✔ HuggingFace
+
+✔ Keras
+
+✔ Chatwood
+
+✔ SuperCompress
+
+✔ Lightning AI
 
 # GitHub Goals
 
